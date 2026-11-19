@@ -13,7 +13,7 @@
 
 ▪ Kết quả thực hiện;
 link Youtube: https://youtu.be/41S-8wI9L-g
-link bài: https://github.com/tihung99123/LAB_AT_BMHTTT
+link bài tổng: https://github.com/tihung99123/LAB_AT_BMHTTT
 
 Bước 1: Truy cập https://github.com và đăng nhập tài khoản.
 Bước 2: Tạo repository mới (New repository), đặt tên: LAB2_MSSV_HoTen
